@@ -1,3 +1,3 @@
-# Welcome to your Lovable project
+# Weaverbird Interior Studio
 
-TODO: Document your project here
+Premium interior design website by Chaitanya Chakravarthy.
