@@ -7,6 +7,7 @@ import UploadSection from "@/components/UploadSection";
 import BookSlotSection from "@/components/BookSlotSection";
 import AIChatWidget from "@/components/AIChatWidget";
 import FooterSection from "@/components/FooterSection";
+import AdminPanel from "@/components/AdminPanel";
 
 const Index = () => {
   return (
@@ -20,6 +21,7 @@ const Index = () => {
       <BookSlotSection />
       <FooterSection />
       <AIChatWidget />
+      <AdminPanel />
     </div>
   );
 };
